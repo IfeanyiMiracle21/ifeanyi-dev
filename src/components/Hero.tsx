@@ -4,7 +4,7 @@ import heroWorkspace from "@/assets/hero-workspace.jpg";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-hero-gradient">
+    <section id="hero" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-hero-gradient">
       {/* Background Image Overlay */}
       <div 
         className="absolute inset-0 bg-cover bg-center opacity-10"
