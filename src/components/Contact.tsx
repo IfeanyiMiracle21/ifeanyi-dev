@@ -9,8 +9,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "hello@yourname.com",
-      href: "mailto:hello@yourname.com"
+      value: "ifeanyi.obiania@gmail.com", 
+      href: "mailto:ifeanyi.obiania@gmail.com"
     },
     {
       icon: Phone,
@@ -21,7 +21,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Location",
-      value: "New York, NY",
+      value: "Lagos, Nigeria",
       href: "#"
     }
   ];

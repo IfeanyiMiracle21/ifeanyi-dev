@@ -18,11 +18,10 @@ const Hero = () => {
       <div className="container mx-auto px-6 text-center text-primary-foreground relative z-10">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Frontend & WordPress
-            <span className="block bg-gradient-to-r from-primary-glow to-accent bg-clip-text text-transparent">
-              Developer
-            </span>
+            Hi, I'm <span className="bg-gradient-to-r from-primary-glow to-accent bg-clip-text text-transparent">Ifeanyi</span>
+            <span className="block">Frontend & WordPress Developer</span>
           </h1>
+          
           
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto opacity-90 leading-relaxed">
             Creating beautiful, responsive websites and powerful WordPress solutions that drive results
