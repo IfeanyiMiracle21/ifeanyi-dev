@@ -9,8 +9,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "ifeanyi.obiania@gmail.com", 
-      href: "mailto:ifeanyi.obiania@gmail.com"
+      value: "hello@yourname.com",
+      href: "mailto:hello@yourname.com"
     },
     {
       icon: Phone,
@@ -21,13 +21,13 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Location",
-      value: "Lagos, Nigeria",
+      value: "New York, NY",
       href: "#"
     }
   ];
 
   return (
-    <section id="contact" className="py-20 bg-background">
+    <section className="py-20 bg-background">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">
