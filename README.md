@@ -1,39 +1,59 @@
-# My Developer Portfolio
+# 🌟 Ifeanyi Miracle – Front-End Developer & WordPress Specialist
 
-This is my personal portfolio website showcasing my skills, projects, and experience as a **Front-End Developer** and **WordPress Developer**.  
-It serves as both a professional profile and a hub for potential clients or employers to learn more about my work.
-
-## 🌐 Live Preview
-You can view the live site here:  
-[Portfolio (Port Forwarded)](https://vj39cdq3-8080.uks1.devtunnels.ms/)  
-_Note: This link may only work while the dev tunnel is active._
+Welcome to the repository for my **personal portfolio website** – a showcase of my skills, projects, and journey as a developer.
 
 ---
 
-## ✨ Features
-- **About Me** section with professional background.
-- **Skills** display for Front-End and WordPress development.
-- **Services** outlining what I offer.
-- **Experience** timeline.
-- **Projects** portfolio with live demos and GitHub links.
-- **Contact Form** for inquiries.
+## 📸 Portfolio Preview
+![Portfolio Preview](./preview.png)  
+*(Screenshot of the live portfolio)*
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS / custom styling
-- **Framework:** React.js (if applicable)
-- **Hosting/Preview:** Localhost via VS Code + Dev Tunnels
+## 🚀 About Me
+Hi, I’m **Ifeanyi Miracle**, a passionate developer who loves creating beautiful, functional, and responsive websites.  
+I specialize in:
+- **Front-End Development** (HTML, CSS, JavaScript, React)
+- **WordPress Development**
+- **UI/UX Implementation**
+- **Responsive Design & Optimization**
+
+When I’m not coding, I enjoy writing, gaming, exploring new tech tools, and working on creative projects.
+
+---
+
+## 🛠 Tech Stack
+Here are the main tools & technologies behind this portfolio:
+
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend (if applicable):** Node.js
+- **CMS:** WordPress
 - **Version Control:** Git & GitHub
+- **Other Tools:** Figma, VS Code, Photoshop
 
 ---
 
-## 📂 Project Structure
-```plaintext
-.
-├── public/           # Static assets
-├── src/              # Source code
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # Portfolio sections
-│   ├── styles/       # Custom CSS or Tailwind config
-│   └── App.js        # Main app en
+## 📂 Features of the Portfolio
+- 📄 **About Me** – My background, skills, and passions  
+- 🛠 **Skills** – Tools and technologies I excel at  
+- 💼 **Services** – What I offer as a developer  
+- ⭐ **Testimonials** – What others say about my work  
+- 📜 **Experience** – My professional journey  
+- 📧 **Contact** – Easy way to reach me  
+
+---
+
+## 🌐 Live Demo
+🚀 **[View Portfolio Website](https://vj39cdq3-8080.uks1.devtunnels.ms/)** *(temporary preview via VS Code forwarded port)*  
+
+---
+
+## 📬 Contact Me
+I’m always open to new opportunities, collaborations, and exciting projects.  
+- **Email:** [obianiai@gmail.com](mailto:obianiai@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ifeanyi-obiania](https://linkedin.com/in/ifeanyi-obiania)  
+- **GitHub:** [github.com/IfeanyiMiracle21](https://github.com/IfeanyiMiracle21)  
+
+---
+
+> This portfolio is built with 💙, clean code, and a passion for web development.
