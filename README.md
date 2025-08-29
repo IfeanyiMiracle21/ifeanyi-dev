@@ -53,7 +53,3 @@ I’m always open to new opportunities, collaborations, and exciting projects.
 - **Email:** [obianiai@gmail.com](mailto:obianiai@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ifeanyi-obiania](https://linkedin.com/in/ifeanyi-obiania)  
 - **GitHub:** [github.com/IfeanyiMiracle21](https://github.com/IfeanyiMiracle21)  
-
----
-
-> This portfolio is built with 💙, clean code, and a passion for web development.
